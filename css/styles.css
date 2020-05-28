@@ -145,7 +145,6 @@ p {
 }
 
 /* media query  */
-}
 
 @media (max-width: 1028px) {
   #title {
@@ -155,5 +154,6 @@ p {
   .title-image {
     position: static;
     transform: rotate(0);
+    padding-top: 10px;
   }
 }
